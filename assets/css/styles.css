@@ -479,6 +479,10 @@ img {
   color: var(--text-color) !important;
 }
 
+address a {
+  color: var(--text-color) !important;               
+}
+
 /*=============== FOOTER ===============*/
 .footer{
   padding-block: 4rem 2rem;
