@@ -479,7 +479,7 @@ img {
   color: var(--text-color) !important;
 }
 
-.contact__info address:active{
+.contact__info a{
   font-style: normal;
   color: var(--text-color) !important;
 }
