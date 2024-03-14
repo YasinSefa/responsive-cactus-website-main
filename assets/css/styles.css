@@ -476,7 +476,7 @@ img {
 
 .contact__info{
   font-style: normal;
-  color: var(--text-color);
+  color: var(--text-color) !important;
 }
 /*=============== FOOTER ===============*/
 .footer{
