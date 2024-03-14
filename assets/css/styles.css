@@ -479,10 +479,6 @@ img {
   color: var(--text-color) !important;
 }
 
-address.contact__info{
-  font-style: normal;
-  color: var(--text-color) !important;
-}
 /*=============== FOOTER ===============*/
 .footer{
   padding-block: 4rem 2rem;
